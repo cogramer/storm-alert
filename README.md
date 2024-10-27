@@ -1,13 +1,12 @@
 INTRODUCTION:
 ===========================
-"Storm Alert" is a simple Python script that is primarily used to monitor storm severity in a chosen city using Openweathermap. It is not meant for forecasting, but can be used to help track changes in weather data. These changes can occur due to shifts in temperature, pressure, wind speed, and often indicate the onset or occurrence of dynamic weather conditions.  
+"Storm Alert" is a simple Python script that is primarily used to monitor storm severity for a specific city using Openweathermap. It is not meant for forecasting, but can be used to help track changes in weather data. These changes can occur due to shifts in temperature, pressure, wind speed, and often indicate the onset or occurrence of dynamic weather conditions.  
 
 Moreover, please note that this script is mostly intended for detecting storm activity in cities within tropical or sub-tropical climates. The Beaufort Wind Force Scale is used to determine the severity of reported windspeed, and - depending on the assessed severity - will alert the user in the form of beeps.
 
 For other weather events such as heat waves, cold fronts, or thunderstorms... These will have varying weather data depending on geography and climate, and often require an assessment of change over multiple reports. For now you may need to manually monitor these events. You can find references for this in the "weather_events.txt" file provided in the same folder. 
 
 This is a personal project I've used to learn more about Python programming and API requests. Any feedbacks are welcome!
-===========================
 
 
 HOW TO USE:
