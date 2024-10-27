@@ -1,12 +1,12 @@
 INTRODUCTION:
 ===========================
-"Storm Alert" is a simple Python script that is primarily used to monitor storm severity in any of the cities using Openweathermap. It is not meant for forecasting, but can be used to help track changes in weather data. These changes can occur due to shifts in temperature, pressure, wind speed, and often indicate the onset or occurrence of dynamic weather conditions.  
+"Storm Alert" is a simple Python script that is primarily used to monitor storm severity in a chosen city using Openweathermap. It is not meant for forecasting, but can be used to help track changes in weather data. These changes can occur due to shifts in temperature, pressure, wind speed, and often indicate the onset or occurrence of dynamic weather conditions.  
 
 Moreover, please note that this script is mostly intended for detecting storm activity in cities within tropical or sub-tropical climates. The Beaufort Wind Force Scale is used to determine the severity of reported windspeed, and - depending on the assessed severity - will alert the user in the form of beeps.
 
 For other weather events such as heat waves, cold fronts, or thunderstorms... These will have varying weather data depending on geography and climate, and often require an assessment of change over multiple reports. For now you may need to manually monitor these events. You can find references for this in the "weather_events.txt" file provided in the same folder. 
 
-This is a personal project I've used to learn more about Python scriptming and API requests. Any feedbacks are welcome!
+This is a personal project I've used to learn more about Python programming and API requests. Any feedbacks are welcome!
 ===========================
 
 
@@ -28,23 +28,7 @@ Everytime you run the script, you first will be prompted to enter a city name, a
 A typical report log will have the following format:
 
 
-LOG # _ | CURRENT_TIME: ____-__-__ __:__:__
------------------------------------------------------
-  Location: ______
-Local time: ____-__-__ __:__:__
-   Sunrise: ____-__-__ __:__:__
-    Sunset: ____-__-__ __:__:__
------------------------------------------------------
-General weather: _____________
-    Temperature: __.__°C or __.__°F
-     Feels like: __.__°C or __.__°F
-     Wind speed: _.__ m/s >> burst __.__ m/s
- Wind direction: ___° (_____)
-       Pressure: ____ hPa
-       Humidity: __ %
-Rain volume for the past hour: ____ mm/h
------------------------------------------------------
-Beaufort wind force: _ >> burst _
+![Screenshot 2024-10-27 213604](https://github.com/user-attachments/assets/6dadf9ba-635c-4b3c-9335-2331fda7fcaf)
 
 
 - "LOG # n" -> Report log number, increments by one for each new log.
@@ -99,7 +83,7 @@ https://en.wikipedia.org/wiki/Tropical_cyclone_scales
 
 
 LICENSE
-
+===========================
 Copyright 2024 cogramer
 
 Licensed under the Apache License, Version 2.0 (the "License");
