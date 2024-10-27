@@ -1,0 +1,194 @@
+LOG # 1 | CURRENT_TIME: 2024-10-27 08:05:08
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-27 08:05:08
+   Sunrise: 2024-10-27 05:42:21
+    Sunset: 2024-10-27 17:19:23
+-----------------------------------------------------
+General weather: shower rain
+    Temperature: 22.99°C or 73.38°F
+     Feels like: 23.51°C or 74.32°F
+     Wind speed: 9.77 m/s >> burst 16.46 m/s
+ Wind direction: 250° (West)
+       Pressure: 996 hPa
+       Humidity: 83 %
+Rain volume for the past hour: 13.93 mm/h
+-----------------------------------------------------
+Beaufort wind force: 5 >> burst 7
+WARNING: Near Gale
+
+
+LOG # 2 | CURRENT_TIME: 2024-10-27 08:15:08
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-27 08:15:08
+   Sunrise: 2024-10-27 05:42:21
+    Sunset: 2024-10-27 17:19:23
+-----------------------------------------------------
+General weather: shower rain
+    Temperature: 22.99°C or 73.38°F
+     Feels like: 23.51°C or 74.32°F
+     Wind speed: 9.77 m/s >> burst 16.46 m/s
+ Wind direction: 250° (West)
+       Pressure: 996 hPa
+       Humidity: 83 %
+Rain volume for the past hour: 13.93 mm/h
+-----------------------------------------------------
+Beaufort wind force: 5 >> burst 7
+WARNING: Near Gale
+
+
+LOG # 3 | CURRENT_TIME: 2024-10-27 08:25:08
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-27 08:25:08
+   Sunrise: 2024-10-27 05:42:21
+    Sunset: 2024-10-27 17:19:23
+-----------------------------------------------------
+General weather: heavy intensity rain
+    Temperature: 22.99°C or 73.38°F
+     Feels like: 23.51°C or 74.32°F
+     Wind speed: 10.8 m/s >> burst 16.46 m/s
+ Wind direction: 240° (South West)
+       Pressure: 996 hPa
+       Humidity: 83 %
+Rain volume for the past hour: 13.93 mm/h
+-----------------------------------------------------
+Beaufort wind force: 5 >> burst 7
+WARNING: Near Gale
+
+
+LOG # 4 | CURRENT_TIME: 2024-10-27 08:35:09
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-27 08:35:09
+   Sunrise: 2024-10-27 05:42:21
+    Sunset: 2024-10-27 17:19:23
+-----------------------------------------------------
+General weather: heavy intensity rain
+    Temperature: 22.99°C or 73.38°F
+     Feels like: 23.51°C or 74.32°F
+     Wind speed: 10.8 m/s >> burst 16.46 m/s
+ Wind direction: 240° (South West)
+       Pressure: 997 hPa
+       Humidity: 83 %
+Rain volume for the past hour: 6.14 mm/h
+-----------------------------------------------------
+Beaufort wind force: 5 >> burst 7
+WARNING: Near Gale
+
+
+LOG # 5 | CURRENT_TIME: 2024-10-27 08:45:09
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-27 08:45:09
+   Sunrise: 2024-10-27 05:42:21
+    Sunset: 2024-10-27 17:19:23
+-----------------------------------------------------
+General weather: heavy intensity rain
+    Temperature: 22.99°C or 73.38°F
+     Feels like: 23.51°C or 74.32°F
+     Wind speed: 11.32 m/s >> burst 0 m/s
+ Wind direction: 240° (South West)
+       Pressure: 997 hPa
+       Humidity: 83 %
+Rain volume for the past hour: 8.74 mm/h
+-----------------------------------------------------
+Beaufort wind force: 5 >> burst 0
+
+
+LOG # 1 | CURRENT_TIME: 2024-10-27 09:03:50
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-27 09:03:50
+   Sunrise: 2024-10-27 05:42:21
+    Sunset: 2024-10-27 17:19:23
+-----------------------------------------------------
+General weather: heavy intensity rain
+    Temperature: 22.99°C or 73.38°F
+     Feels like: 23.51°C or 74.32°F
+     Wind speed: 11.32 m/s >> burst 0 m/s
+ Wind direction: 240° (South West)
+       Pressure: 997 hPa
+       Humidity: 83 %
+Rain volume for the past hour: 8.74 mm/h
+-----------------------------------------------------
+Beaufort wind force: 5 >> burst 0
+
+
+LOG # 2 | CURRENT_TIME: 2024-10-27 09:13:50
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-27 09:13:50
+   Sunrise: 2024-10-27 05:42:21
+    Sunset: 2024-10-27 17:19:23
+-----------------------------------------------------
+General weather: heavy intensity rain
+    Temperature: 22.99°C or 73.38°F
+     Feels like: 23.51°C or 74.32°F
+     Wind speed: 11.32 m/s >> burst 0 m/s
+ Wind direction: 240° (South West)
+       Pressure: 997 hPa
+       Humidity: 83 %
+Rain volume for the past hour: 8.74 mm/h
+-----------------------------------------------------
+Beaufort wind force: 5 >> burst 0
+
+
+LOG # 3 | CURRENT_TIME: 2024-10-27 09:23:51
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-27 09:23:51
+   Sunrise: 2024-10-27 05:42:21
+    Sunset: 2024-10-27 17:19:23
+-----------------------------------------------------
+General weather: heavy intensity rain
+    Temperature: 22.99°C or 73.38°F
+     Feels like: 23.51°C or 74.32°F
+     Wind speed: 11.32 m/s >> burst 0 m/s
+ Wind direction: 240° (South West)
+       Pressure: 997 hPa
+       Humidity: 83 %
+Rain volume for the past hour: 8.74 mm/h
+-----------------------------------------------------
+Beaufort wind force: 5 >> burst 0
+
+
+LOG # 4 | CURRENT_TIME: 2024-10-27 09:33:51
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-27 09:33:51
+   Sunrise: 2024-10-27 05:42:21
+    Sunset: 2024-10-27 17:19:23
+-----------------------------------------------------
+General weather: moderate rain
+    Temperature: 21.99°C or 71.58°F
+     Feels like: 22.54°C or 72.57°F
+     Wind speed: 10.8 m/s >> burst 16.46 m/s
+ Wind direction: 230° (South West)
+       Pressure: 997 hPa
+       Humidity: 88 %
+Rain volume for the past hour: 3.21 mm/h
+-----------------------------------------------------
+Beaufort wind force: 5 >> burst 7
+WARNING: Near Gale
+
+
+LOG # 5 | CURRENT_TIME: 2024-10-27 10:11:15
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-27 10:11:15
+   Sunrise: 2024-10-27 05:42:21
+    Sunset: 2024-10-27 17:19:23
+-----------------------------------------------------
+General weather: moderate rain
+    Temperature: 21.99°C or 71.58°F
+     Feels like: 22.41°C or 72.34°F
+     Wind speed: 14.92 m/s >> burst 0 m/s
+ Wind direction: 220° (South West)
+       Pressure: 997 hPa
+       Humidity: 83 %
+Rain volume for the past hour: 3.21 mm/h
+-----------------------------------------------------
+Beaufort wind force: 6 >> burst 0
+WARNING: Strong Breeze

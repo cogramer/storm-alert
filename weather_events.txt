@@ -1,0 +1,81 @@
+BEAUFORT WIND FORCE SCALE (* for one beep ; ** for two beeps):
+ 0   : Calm
+ 1   : Light Air
+ 2   : Light Breeze
+ 3   : Gentle Breeze  
+ 4   : Moderate Breeze
+ 5   : Fresh Breeze
+ 6*  : Strong Breeze
+ 7*  : Near Gale
+ 8*  : Gale
+ 9*  : Severe Gale
+10*  : Storm
+11** : Violent Storm
+12** : Category 1 Hurricane 	  | Typhoon
+13** : Category 1 Hurricane 	  | Typhoon
+14** : Category 2 Hurricane 	  | Very Strong Typhoon
+15** : Category 2 Hurricane 	  | Very Strong Typhoon
+16** : Category 3 Major Hurricane | Violent Typhoon
+17** : Category 4 Major Hurricane | Violent Typhoon
+18** : Category 4 Major Hurricane | Violent Typhoon
+18+**: Category 5 Major Hurricane | Super Typhoon 
+
+NOTE: The Extended Beaufort Scale (13 - 17) does not have actual names as it is used only for special cases in countries often affected by typhoons. As such, the names given above are only based on equivalent comparisons with the Saffir–Simpson scale and RSMC Tokyo's Tropical Cyclone Intensity Scale. 
+
+------------------------------------------------------
+
+SOME WEATHER EVENTS TO BE INFERED FROM REPORT LOG DATA:
+
+Storms (Thunderstorms, Tropical Storms):
+---------
+    Low pressure combined with high humidity, increasing wind speed, gusts, and wind direction changes can indicate storm formation.
+    Sudden temperature drops can also be a precursor to thunderstorms.
+
+Cyclones, Hurricanes, or Typhoons:
+---------
+    Rapid drops in pressure, strong wind speeds, and consistent wind gusts in the same direction suggest cyclone formation.
+    Warm temperatures combined with high humidity in coastal regions further support this detection.
+
+Tornadoes:
+---------
+    Rapid shifts in wind direction and gusts, coupled with low pressure and strong wind speeds, can indicate tornadic activity.
+    Temperature drops and rising humidity can support the conditions needed for tornadoes.
+
+Heatwaves:
+---------
+    Persistently high temperatures, combined with low wind speeds and gusts, and low humidity, can point to a heatwave.
+
+Cold Fronts:
+---------
+    A rapid decrease in temperature, followed by a sudden increase in windspeed and gusts, as well as a shift in wind direction, often signals a cold front.
+
+Fog or Mist:
+---------
+    High humidity with low windspeed and stable, cooler temperatures can indicate the formation of fog or mist.
+
+Windstorms:
+---------
+    High wind speeds and gusts with shifting wind directions, even without precipitation, indicate windstorms.
+
+Squalls:
+---------
+    Quick shifts in wind speed and gusts, along with changing wind direction and moderate to high humidity, can signal squalls.
+
+
+HOW QUICKLY CAN THESE DATA CHANGE: 
+
+- Rapid: Tornadoes (seconds to minutes), squalls (minutes), thunderstorms (minutes to hours), cold fronts (minutes to hours).
+- Moderate: Hurricanes, cyclones, typhoons (hours to days), windstorms (hours), heatwaves (hours to days).
+- Gradual: Fog (hours), mist (hours), general storm development (hours to days).
+
+REFERENCES:
+===========================
+https://en.wikipedia.org/wiki/Storm
+https://en.wikipedia.org/wiki/Tornado
+https://en.wikipedia.org/wiki/Squall
+https://en.wikipedia.org/wiki/Thunderstorm
+https://en.wikipedia.org/wiki/Cold_front
+https://en.wikipedia.org/wiki/Heat_wave
+https://en.wikipedia.org/wiki/Tropical_cyclone
+https://en.wikipedia.org/wiki/Fog
+https://en.wikipedia.org/wiki/Mist

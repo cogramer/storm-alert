@@ -1,0 +1,131 @@
+LOG # 1 | CURRENT_TIME: 2024-10-26 22:35:42
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-26 22:35:42
+   Sunrise: 2024-10-26 05:42:02
+    Sunset: 2024-10-26 17:19:52
+-----------------------------------------------------
+General weather: light rain
+    Temperature: 22.99°C or 73.38°F
+     Feels like: 23.38°C or 74.08°F
+     Wind speed: 6.69 m/s >> burst 0 m/s
+ Wind direction: 310° (North West)
+       Pressure: 1003 hPa
+       Humidity: 78 %
+Rain volume for the past hour: 0.78 mm/h
+-----------------------------------------------------
+Beaufort wind force: 4 >> burst 0
+
+
+LOG # 2 | CURRENT_TIME: 2024-10-26 22:45:42
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-26 22:45:42
+   Sunrise: 2024-10-26 05:42:02
+    Sunset: 2024-10-26 17:19:52
+-----------------------------------------------------
+General weather: moderate rain
+    Temperature: 21.99°C or 71.58°F
+     Feels like: 22.54°C or 72.57°F
+     Wind speed: 6.17 m/s >> burst 0 m/s
+ Wind direction: 300° (North West)
+       Pressure: 1002 hPa
+       Humidity: 88 %
+Rain volume for the past hour: 1.17 mm/h
+-----------------------------------------------------
+Beaufort wind force: 3 >> burst 0
+
+
+LOG # 3 | CURRENT_TIME: 2024-10-26 22:55:42
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-26 22:55:42
+   Sunrise: 2024-10-26 05:42:02
+    Sunset: 2024-10-26 17:19:52
+-----------------------------------------------------
+General weather: moderate rain
+    Temperature: 21.99°C or 71.58°F
+     Feels like: 22.54°C or 72.57°F
+     Wind speed: 6.17 m/s >> burst 0 m/s
+ Wind direction: 300° (North West)
+       Pressure: 1002 hPa
+       Humidity: 88 %
+Rain volume for the past hour: 1.17 mm/h
+-----------------------------------------------------
+Beaufort wind force: 3 >> burst 0
+
+
+LOG # 4 | CURRENT_TIME: 2024-10-26 23:05:42
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-26 23:05:42
+   Sunrise: 2024-10-26 05:42:02
+    Sunset: 2024-10-26 17:19:52
+-----------------------------------------------------
+General weather: moderate rain
+    Temperature: 21.99°C or 71.58°F
+     Feels like: 22.54°C or 72.57°F
+     Wind speed: 6.17 m/s >> burst 0 m/s
+ Wind direction: 300° (North West)
+       Pressure: 1002 hPa
+       Humidity: 88 %
+Rain volume for the past hour: 1.17 mm/h
+-----------------------------------------------------
+Beaufort wind force: 3 >> burst 0
+
+
+LOG # 5 | CURRENT_TIME: 2024-10-26 23:15:43
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-26 23:15:43
+   Sunrise: 2024-10-26 05:42:02
+    Sunset: 2024-10-26 17:19:52
+-----------------------------------------------------
+General weather: moderate rain
+    Temperature: 21.99°C or 71.58°F
+     Feels like: 22.54°C or 72.57°F
+     Wind speed: 6.17 m/s >> burst 0 m/s
+ Wind direction: 300° (North West)
+       Pressure: 1002 hPa
+       Humidity: 88 %
+Rain volume for the past hour: 1.17 mm/h
+-----------------------------------------------------
+Beaufort wind force: 3 >> burst 0
+
+
+LOG # 6 | CURRENT_TIME: 2024-10-26 23:25:43
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-26 23:25:43
+   Sunrise: 2024-10-26 05:42:02
+    Sunset: 2024-10-26 17:19:52
+-----------------------------------------------------
+General weather: shower rain
+    Temperature: 21.99°C or 71.58°F
+     Feels like: 22.54°C or 72.57°F
+     Wind speed: 5.14 m/s >> burst 0 m/s
+ Wind direction: 300° (North West)
+       Pressure: 1002 hPa
+       Humidity: 88 %
+Rain volume for the past hour: 1.17 mm/h
+-----------------------------------------------------
+Beaufort wind force: 3 >> burst 0
+
+
+LOG # 7 | CURRENT_TIME: 2024-10-26 23:37:20
+-----------------------------------------------------
+  Location: Danang
+Local time: 2024-10-26 23:37:20
+   Sunrise: 2024-10-26 05:42:02
+    Sunset: 2024-10-26 17:19:52
+-----------------------------------------------------
+General weather: shower rain
+    Temperature: 21.99°C or 71.58°F
+     Feels like: 22.54°C or 72.57°F
+     Wind speed: 5.14 m/s >> burst 0 m/s
+ Wind direction: 300° (North West)
+       Pressure: 1002 hPa
+       Humidity: 88 %
+Rain volume for the past hour: 1.17 mm/h
+-----------------------------------------------------
+Beaufort wind force: 3 >> burst 0

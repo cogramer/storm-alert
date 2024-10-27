@@ -1,0 +1,178 @@
+LOG # 1 | CURRENT_TIME: 2024-10-10 11:28:29
+-----------------------------------------------------
+  Location: Tampa
+Local time: 2024-10-10 00:28:29
+   Sunrise: 2024-10-10 07:27:26
+    Sunset: 2024-10-10 19:05:37
+-----------------------------------------------------
+General weather: very heavy rain
+    Temperature: 20.99°C or 69.78°F
+     Feels like: 21.63°C or 70.93°F
+     Wind speed: 22.67 m/s >> burst 33.55 m/s
+ Wind direction: 15° (North)
+       Pressure: 987 hPa
+       Humidity: 95 %
+Rain volume for the past hour: 24.18 mm/h
+-----------------------------------------------------
+Beaufort wind force: 9 >> burst 11
+WARNING: Severe Gale >> Violent Storm
+
+
+LOG # 2 | CURRENT_TIME: 2024-10-10 11:38:31
+-----------------------------------------------------
+  Location: Tampa
+Local time: 2024-10-10 00:38:31
+   Sunrise: 2024-10-10 07:27:26
+    Sunset: 2024-10-10 19:05:37
+-----------------------------------------------------
+General weather: moderate rain
+    Temperature: 20.97°C or 69.75°F
+     Feels like: 21.60°C or 70.88°F
+     Wind speed: 21.63 m/s >> burst 29.3 m/s
+ Wind direction: 360° (North)
+       Pressure: 989 hPa
+       Humidity: 95 %
+Rain volume for the past hour: 3.3 mm/h
+-----------------------------------------------------
+Beaufort wind force: 8 >> burst 10
+WARNING: Gale >> Storm
+
+
+LOG # 3 | CURRENT_TIME: 2024-10-10 11:48:32
+-----------------------------------------------------
+  Location: Tampa
+Local time: 2024-10-10 00:48:32
+   Sunrise: 2024-10-10 07:27:26
+    Sunset: 2024-10-10 19:05:37
+-----------------------------------------------------
+General weather: moderate rain
+    Temperature: 21.00°C or 69.80°F
+     Feels like: 21.64°C or 70.95°F
+     Wind speed: 21.63 m/s >> burst 29.3 m/s
+ Wind direction: 360° (North)
+       Pressure: 989 hPa
+       Humidity: 95 %
+Rain volume for the past hour: 3.3 mm/h
+-----------------------------------------------------
+Beaufort wind force: 8 >> burst 10
+WARNING: Gale >> Storm
+
+
+LOG # 4 | CURRENT_TIME: 2024-10-10 11:58:38
+-----------------------------------------------------
+  Location: Tampa
+Local time: 2024-10-10 00:58:38
+   Sunrise: 2024-10-10 07:27:26
+    Sunset: 2024-10-10 19:05:37
+-----------------------------------------------------
+General weather: moderate rain
+    Temperature: 21.00°C or 69.80°F
+     Feels like: 21.64°C or 70.95°F
+     Wind speed: 21.63 m/s >> burst 29.3 m/s
+ Wind direction: 360° (North)
+       Pressure: 989 hPa
+       Humidity: 95 %
+Rain volume for the past hour: 3.3 mm/h
+-----------------------------------------------------
+Beaufort wind force: 8 >> burst 10
+WARNING: Gale >> Storm
+
+
+LOG # 5 | CURRENT_TIME: 2024-10-10 12:08:39
+-----------------------------------------------------
+  Location: Tampa
+Local time: 2024-10-10 01:08:39
+   Sunrise: 2024-10-10 07:27:26
+    Sunset: 2024-10-10 19:05:37
+-----------------------------------------------------
+General weather: moderate rain
+    Temperature: 21.28°C or 70.30°F
+     Feels like: 21.94°C or 71.49°F
+     Wind speed: 21.63 m/s >> burst 29.3 m/s
+ Wind direction: 360° (North)
+       Pressure: 989 hPa
+       Humidity: 95 %
+Rain volume for the past hour: 3.3 mm/h
+-----------------------------------------------------
+Beaufort wind force: 8 >> burst 10
+WARNING: Gale >> Storm
+
+
+LOG # 6 | CURRENT_TIME: 2024-10-10 12:18:40
+-----------------------------------------------------
+  Location: Tampa
+Local time: 2024-10-10 01:18:40
+   Sunrise: 2024-10-10 07:27:26
+    Sunset: 2024-10-10 19:05:37
+-----------------------------------------------------
+General weather: moderate rain
+    Temperature: 21.28°C or 70.30°F
+     Feels like: 21.89°C or 71.40°F
+     Wind speed: 21.63 m/s >> burst 29.3 m/s
+ Wind direction: 360° (North)
+       Pressure: 989 hPa
+       Humidity: 93 %
+Rain volume for the past hour: 3.3 mm/h
+-----------------------------------------------------
+Beaufort wind force: 8 >> burst 10
+WARNING: Gale >> Storm
+
+
+LOG # 7 | CURRENT_TIME: 2024-10-10 12:28:40
+-----------------------------------------------------
+  Location: Tampa
+Local time: 2024-10-10 01:28:40
+   Sunrise: 2024-10-10 07:27:26
+    Sunset: 2024-10-10 19:05:37
+-----------------------------------------------------
+General weather: moderate rain
+    Temperature: 21.22°C or 70.20°F
+     Feels like: 21.83°C or 71.29°F
+     Wind speed: 21.63 m/s >> burst 29.3 m/s
+ Wind direction: 360° (North)
+       Pressure: 989 hPa
+       Humidity: 93 %
+Rain volume for the past hour: 3.3 mm/h
+-----------------------------------------------------
+Beaufort wind force: 8 >> burst 10
+WARNING: Gale >> Storm
+
+
+LOG # 8 | CURRENT_TIME: 2024-10-10 12:38:41
+-----------------------------------------------------
+  Location: Tampa
+Local time: 2024-10-10 01:38:41
+   Sunrise: 2024-10-10 07:27:26
+    Sunset: 2024-10-10 19:05:37
+-----------------------------------------------------
+General weather: moderate rain
+    Temperature: 21.36°C or 70.45°F
+     Feels like: 21.98°C or 71.56°F
+     Wind speed: 17.5 m/s >> burst 24.8 m/s
+ Wind direction: 358° (North)
+       Pressure: 992 hPa
+       Humidity: 93 %
+Rain volume for the past hour: 1.04 mm/h
+-----------------------------------------------------
+Beaufort wind force: 7 >> burst 9
+WARNING: Near Gale >> Severe Gale
+
+
+LOG # 9 | CURRENT_TIME: 2024-10-10 12:48:42
+-----------------------------------------------------
+  Location: Tampa
+Local time: 2024-10-10 01:48:42
+   Sunrise: 2024-10-10 07:27:26
+    Sunset: 2024-10-10 19:05:37
+-----------------------------------------------------
+General weather: moderate rain
+    Temperature: 21.36°C or 70.45°F
+     Feels like: 21.98°C or 71.56°F
+     Wind speed: 17.5 m/s >> burst 24.8 m/s
+ Wind direction: 358° (North)
+       Pressure: 992 hPa
+       Humidity: 93 %
+Rain volume for the past hour: 1.04 mm/h
+-----------------------------------------------------
+Beaufort wind force: 7 >> burst 9
+WARNING: Near Gale >> Severe Gale
